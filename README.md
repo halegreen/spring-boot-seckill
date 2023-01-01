@@ -1,3 +1,9 @@
+扫码关注程序媛的成长之路！
+
+
+<img width="160" alt="Screen Shot 2023-01-01 at 4 26 34 PM" src="https://user-images.githubusercontent.com/13792102/210165050-f85c0d41-4158-4df9-a8ad-cc0d6b0ae238.png">
+
+
 # 分布式秒杀系统
 [原项目地址](https://gitee.com/52itstyle/spring-boot-seckill)
 [原项目博客](https://blog.52itstyle.com/archives/2853/)
